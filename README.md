@@ -2,7 +2,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Jay Sikarwar</h1>
 
-<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | B.Tech CSE</h3>
+<h3 align="center"> Full Stack Developer | DSA Enthusiast | B.Tech CSE</h3>
 
 ---
 
@@ -60,7 +60,7 @@
 ## 🚀 Projects
 
 ### 🌦️ Weather App  
-- Real-time weather data 🌍  
+- Real-time weather data  
 - Responsive UI + Glassmorphism  
 - Dark mode + dynamic background  
 
