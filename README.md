@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFA3,100:7C4DFF&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&fontAlignY=35&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFA3,100:7C4DFF&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&fontAlignY=35"/>
 
 # 🌌 𝙅𝘼𝙔 𝙎𝙄𝙆𝘼𝙍𝙒𝘼𝙍 🚀
 
@@ -21,15 +21,6 @@
 
 </div>
 
----
-
----
-
-<p align="center">
-🚀 Passionate about building impactful web applications and mastering Data Structures & Algorithms.
-</p>
-
----
 
 <!-- Typing Animation -->
 <p align="center">
@@ -67,7 +58,6 @@
 </p>
 
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -93,16 +83,36 @@
 - Responsive UI + Glassmorphism  
 - Dark mode + dynamic background  
 
-🔗 Live Demo:  
-https://jay2005sikarwar.github.io/weather-app/
+## 🌐 Explore Project
+
+<p align="center">
+
+<a href="https://jay2005sikarwar.github.io/weather-app/">
+<img src="https://img.shields.io/badge/🌍%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jay2005sikarwar/weather-app">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay2005sikarwar&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay2005sikarwar&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay2005sikarwar&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay2005sikarwar&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay2005sikarwar&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay2005sikarwar&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay2005sikarwar&theme=tokyonight&utcOffset=5.5" width="48%" />
 </p>
 
 ---
