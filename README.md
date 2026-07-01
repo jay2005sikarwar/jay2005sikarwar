@@ -125,15 +125,7 @@
 
 ---
 
-## ⚡ Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-orange?style=for-the-badge">
-</p>
-
----
 
 # 📈 Contribution Graph
 
