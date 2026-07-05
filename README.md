@@ -160,7 +160,7 @@
 
 ## ⚡ Fun Fact
 
-> I turn coffee ☕ into code 💻 and bugs 🐛 into features 
+> I turn coffee ☕ into code 💻 and bugs 🐛 into features .
 
 ---
 
