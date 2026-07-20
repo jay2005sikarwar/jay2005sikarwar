@@ -22,9 +22,7 @@
 
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Problem+Solver;Future+Software+Engineer;Building+Cool+Projects+🚀">
-</p>
+
 
 ---
 
@@ -104,15 +102,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay2005sikarwar&theme=tokyonight" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay2005sikarwar&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay2005sikarwar&theme=tokyonight" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay2005sikarwar&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay2005sikarwar&theme=tokyonight&utcOffset=5.5" width="48%" />
-</p>
+
+
 
 ---
 
@@ -140,9 +132,7 @@
   <a href="https://www.linkedin.com/in/jay-sikarwar-8442b530a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jay2005sikarwar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
