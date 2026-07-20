@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFA3,100:7C4DFF&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&fontAlignY=35"/>
 
 # 🌌 𝙅𝘼𝙔 𝙎𝙄𝙆𝘼𝙍𝙒𝘼𝙍 🚀
 
