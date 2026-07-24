@@ -96,11 +96,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay2005sikarwar&theme=tokyonight" width="100%" />
-</p>
 
 
 
