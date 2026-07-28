@@ -107,7 +107,9 @@
 ## 🔥 GitHub Streak 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jay2005sikarwar&theme=tokyonight" />
+  <a href="https://github.com/jay2005sikarwar">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=jay2005sikarwar&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
