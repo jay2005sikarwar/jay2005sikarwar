@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # 🌌 𝙅𝘼𝙔 𝙎𝙄𝙆𝘼𝙍𝙒𝘼𝙍 🚀
 
 ### ✨ Crafting Code • Building Experiences • Solving Problems ✨
@@ -20,9 +19,7 @@
 
 </div>
 
-
 <!-- Typing Animation -->
-
 
 ---
 
@@ -36,16 +33,12 @@
 ## ⚡ About_Me
 
 🖥️ **STATUS:** ONLINE
-
 🎓 Education ➜ **B.Tech CSE (Final Year)**
-
 💻 Specialization ➜ **Full Stack Development • DSA**
-
 📚 Loading ➜ **Backend • System Design**
-
 🎯 Target Locked ➜ **Top Product-Based Companies 🚀**
-
 ✨ Motto ➜ *Code. Learn. Build. Repeat.*
+
 ---
 
 ## 🧠 LeetCode Stats
@@ -53,7 +46,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jay_sikarwar?theme=dark&font=Baloo" />
 </p>
-
 
 ---
 
@@ -75,36 +67,71 @@
 
 ## 🚀 Projects
 
-### 🌦️ Weather App  
-- Real-time weather data 🌍  
-- Responsive UI + Glassmorphism  
-- Dark mode + dynamic background  
-
-## 🌐 Explore Project
+### 🌦️ Weather App
+- Real-time weather data 🌍
+- Responsive UI + Glassmorphism
+- Dark mode + dynamic background
 
 <p align="center">
-
 <a href="https://jay2005sikarwar.github.io/weather-app/">
 <img src="https://img.shields.io/badge/🌍%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 <a href="https://github.com/jay2005sikarwar/weather-app">
 <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
+### 💼 Job Preparation Portal
+- End-to-end platform to help students prep for job interviews
+- Structured resources, tracking, and prep tools
+- Full Stack (MERN)
 
-
-
-
-
+<p align="center">
+<a href="https://job-preparation-portal-frontend.onrender.com">
+<img src="https://img.shields.io/badge/🌍%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/jay2005sikarwar/Job-Preparation-Portal">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🔥 GitHub Streak 
+### 🎓 AI Course Generator
+- Generates structured courses using AI
+- Clean, dynamic UI for course creation and browsing
+- Full Stack (MERN)
+
+<p align="center">
+<a href="https://ai-course-generator-3h8m.onrender.com">
+<img src="https://img.shields.io/badge/🌍%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/jay2005sikarwar/AI-Course-Generator">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🩺 Medicos
+- Healthcare-focused web application
+- Modern responsive UI
+- Full Stack (MERN)
+
+<p align="center">
+<a href="https://medicos-11.onrender.com/">
+<img src="https://img.shields.io/badge/🌍%20Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/jay2005sikarwar/Medicos.">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <a href="https://github.com/jay2005sikarwar">
@@ -114,14 +141,10 @@
 
 ---
 
-
-
 # 📈 Contribution Graph
 
 <div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jay2005sikarwar&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&area_color=00F5FF&hide_border=true&hide_title=true&radius=16"/>
-
 </div>
 
 ## 📫 Connect with Me
@@ -130,7 +153,6 @@
   <a href="https://www.linkedin.com/in/jay-sikarwar-8442b530a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
 </p>
 
 ---
@@ -138,9 +160,7 @@
 # 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
